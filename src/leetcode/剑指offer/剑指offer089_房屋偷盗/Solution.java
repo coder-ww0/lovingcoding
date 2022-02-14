@@ -1,7 +1,5 @@
-package leetcode.剑指offer089_房屋偷盗;
+package leetcode.剑指offer.剑指offer089_房屋偷盗;
 
-
-import java.util.Arrays;
 
 /**
  * @author www
